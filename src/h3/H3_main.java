@@ -11,7 +11,7 @@ public class H3_main {
 		
 		System.out.println("Float-Berechnung:");
 		System.out.println(celsiusFloat + " °C = " + fahrenheitFloat + " °F");
-		System.out.println("\nDouble-Berechnung:");
+		System.out.println("Double-Berechnung:");
 		System.out.println(celsiusDouble + " °C = " + fahrenheitDouble + " °F");
 	}
 
